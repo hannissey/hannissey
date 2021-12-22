@@ -14,3 +14,14 @@ I'm also interested in Laravel (PHP) and React (Javascript) to build websites.
 Currently reading:
 - :green_book: Java In Two Semesters (4th Edition) by Quentin Charatan and Aaron Kans
 - :blue_book: Pro Git by Ben Straub and Scott Chacon
+
+Useful CS Study links:
+
+ https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra
+ https://ryanstutorials.net/boolean-algebra-tutorial/
+ https://www.tutorialspoint.com/discrete_mathematics/index.htm 
+ https://edu.gcfglobal.org/en/computer-science/
+ https://ryanstutorials.net/boolean-algebra-tutorial/
+ https://www.tutorialspoint.com/discrete_mathematics/index.htm
+ https://www.khanacademy.org/computing/computer-science
+ https://www.codecademy.com/learn/learn-java

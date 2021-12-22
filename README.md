@@ -22,7 +22,6 @@ Useful CS Study links:
  <li>https://ryanstutorials.net/boolean-algebra-tutorial/</li>
  <li>https://www.tutorialspoint.com/discrete_mathematics/index.htm</li> 
  <li>https://edu.gcfglobal.org/en/computer-science/</li>
- <li>https://ryanstutorials.net/boolean-algebra-tutorial/</li>
- <li>https://www.tutorialspoint.com/discrete_mathematics/index.htm</li>
  <li>https://www.khanacademy.org/computing/computer-science</li>
  <li>https://www.codecademy.com/learn/learn-java</li>
+</ul>

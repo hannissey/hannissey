@@ -11,9 +11,12 @@ I've been advised to look into Java and brush up on my Maths skills before the c
 I'm also interested in Laravel (PHP) and React (Javascript) to build websites.
 </br>Always learning, and always missing the obvious (eg ;)! Give me a nudge if you've any helpful suggestions!
 
-Currently reading:
+Currently studying:
 - :green_book: Java In Two Semesters (4th Edition) by Quentin Charatan and Aaron Kans
 - :blue_book: Pro Git by Ben Straub and Scott Chacon
+
+Extra credit:
+- :closed_book: Turing's Vision: The Birth Of Computer Science by Chris Bernhardt
 
 Useful CS Study links:
 
